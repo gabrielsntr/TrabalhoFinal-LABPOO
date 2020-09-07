@@ -1,7 +1,0 @@
-Para o primeiro acesso, deve-se executar o comando de criação da base de dados:
-
-CREATE DATABASE IF NOT EXISTS onibus;
-
-O usuário do primeiro acesso pode ser feito com:
-Usuário: admin
-Senha: admin
